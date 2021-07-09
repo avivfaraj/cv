@@ -27,11 +27,11 @@ table,td, th {
 
 Skill | Rating 
 :--: | :-- 
-<span style="color:blue">Python</span>|⭐⭐⭐⭐⭐ 
-Java|⭐⭐⭐ 
-Git|⭐⭐⭐ 
-GitHub|⭐⭐⭐ 
-SQL|⭐⭐ 
+<span style="color:blue">Python</span>| 🔵 🔵 🔵 🔵 🔵
+Java|🔵 🔵 🔵 ⚪ ⚪
+Git|🔵 🔵 🔵 ⚪ ⚪
+GitHub|🔵 🔵 🔵 ⚪ ⚪
+SQL|🔵 🔵 ⚪ ⚪ ⚪ 
  
  
 <!-- ## Welcome to GitHub Pages
