@@ -16,7 +16,13 @@ Data Science Graduate Student at Drexel University
     - GPA - 3.8 
  
  ## Skills
- - **Programming** - Python ****
+ - **Programming**: 
+    1. Python  ⭐⭐⭐⭐⭐
+    2. Java    ⭐⭐⭐
+    3. Git     ⭐⭐⭐
+    4. GitHub  ⭐⭐⭐
+    5. SQL     ⭐⭐
+ 
  
 <!-- ## Welcome to GitHub Pages
 
