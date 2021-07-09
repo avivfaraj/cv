@@ -27,7 +27,7 @@ table,td, th {
 
 Skill | Rating 
 :--: | :-- 
-Python|⭐⭐⭐⭐⭐ 
+<span style="color:blue">Python</span>|⭐⭐⭐⭐⭐ 
 Java|⭐⭐⭐ 
 Git|⭐⭐⭐ 
 GitHub|⭐⭐⭐ 
