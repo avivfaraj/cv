@@ -27,8 +27,9 @@ table,td, th {
 
 Skill | Rating 
 :--: | :-- 
-<span style="color:blue">Python</span>| 🔵 🔵 🔵 🔵 🔵
-Java|🔵 🔵 🔵 ⚪ ⚪
+<span style="color:green">Python</span>| 🔵 🔵 🔵 🔵 🔵
+<span style="color:green">MATLAB</span>| 🔵 🔵 🔵 🔵 🔵
+Java|🔵 🔵 🔵 🔵 ⚪
 Git|🔵 🔵 🔵 ⚪ ⚪
 GitHub|🔵 🔵 🔵 ⚪ ⚪
 SQL|🔵 🔵 ⚪ ⚪ ⚪ 
