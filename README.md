@@ -1,5 +1,19 @@
 # Aviv Faraj
-## Welcome to GitHub Pages
+Data Science Graduate Student at Drexel University
+
+## Education
+- **Master of Science, Data Science**, Drexel University, Philadelphia 
+
+- **Bachelor of Science, Electrical & Electronics Engineering, Magna Cum Laude**, Ariel University, Israel. 
+    - GPA - 3.7
+    - Major in Radio Frequency (RF) and Signal Processing.
+  
+- **Bachelor of Science, Physics, Summa Cum Laude**, Ariel University, Israel.
+    - Summa Cum Laude, 2019
+    - Dean's List, 2018
+    - Dean's List, 2017
+    - GPA - 3.8 
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/avivfaraj/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,3 +50,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
