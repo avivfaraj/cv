@@ -16,9 +16,10 @@ Data Science Graduate Student at Drexel University
     - GPA - 3.8 
  
 ## Skills
-- **Programming**: <br>
-        |Skill | Level|
-        |------|---------|
+- **Programming**: 
+
+        |Skill | Rating |
+        |:--: | :--: |
         |Python|⭐⭐⭐⭐⭐ |
         |Java|⭐⭐⭐ |
         |Git|⭐⭐⭐ |
