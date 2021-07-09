@@ -15,8 +15,8 @@ Data Science Graduate Student at Drexel University
     - Dean's List, 2017
     - GPA - 3.8 
  
- ## Skills
- - **Programming**: 
+## Skills
+- **Programming**: 
     1. Python  ⭐⭐⭐⭐⭐
     2. Java    ⭐⭐⭐
     3. Git     ⭐⭐⭐
