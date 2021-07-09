@@ -6,8 +6,8 @@ Data Science Graduate Student at Drexel University
 
 - **Bachelor of Science, Electrical & Electronics Engineering, Magna Cum Laude**, Ariel University, Israel. 
     - Magna Cum Laude, 2020
-    - GPA - 3.7
     - Major in Radio Frequency (RF) and Signal Processing.
+    - GPA - 3.7
   
 - **Bachelor of Science, Physics, Summa Cum Laude**, Ariel University, Israel.
     - Summa Cum Laude, 2019
@@ -15,6 +15,8 @@ Data Science Graduate Student at Drexel University
     - Dean's List, 2017
     - GPA - 3.8 
  
+ ## Skills
+ - **Programming** - Python ****
  
 <!-- ## Welcome to GitHub Pages
 
