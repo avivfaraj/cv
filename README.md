@@ -20,7 +20,7 @@ Data Science Graduate Student at Drexel University
 ## Skills
 - **Programming**: 
 <style>
-td, th {
+table,td, th {
    border: none!important;
 }
 </style>
