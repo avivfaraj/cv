@@ -1,3 +1,5 @@
+
+
 # Aviv Faraj
 Data Science Graduate Student at Drexel University
 
@@ -17,6 +19,11 @@ Data Science Graduate Student at Drexel University
  
 ## Skills
 - **Programming**: 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 Skill | Rating 
 :--: | :-- 
