@@ -5,6 +5,7 @@ Data Science Graduate Student at Drexel University
 - **Master of Science, Data Science**, Drexel University, Philadelphia 
 
 - **Bachelor of Science, Electrical & Electronics Engineering, Magna Cum Laude**, Ariel University, Israel. 
+    - Magna Cum Laude, 2020
     - GPA - 3.7
     - Major in Radio Frequency (RF) and Signal Processing.
   
@@ -13,6 +14,8 @@ Data Science Graduate Student at Drexel University
     - Dean's List, 2018
     - Dean's List, 2017
     - GPA - 3.8 
+ 
+ 
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/avivfaraj/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
