@@ -17,11 +17,13 @@ Data Science Graduate Student at Drexel University
  
 ## Skills
 - **Programming**: <br>
-        &emsp;1. |Python|⭐⭐⭐⭐⭐ |<br>
-        &emsp;2. |Java|⭐⭐⭐ |<br>
-        &emsp;3. |Git|⭐⭐⭐ |<br>
-        &emsp;4. |GitHub|⭐⭐⭐ |<br>
-        &emsp;5. |SQL|⭐⭐ |<br>
+        |Skill | Level|
+        |------|---------|
+        |Python|⭐⭐⭐⭐⭐ |
+        |Java|⭐⭐⭐ |
+        |Git|⭐⭐⭐ |
+        |GitHub|⭐⭐⭐ |
+        |SQL|⭐⭐ |
  
  
 <!-- ## Welcome to GitHub Pages
