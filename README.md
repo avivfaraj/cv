@@ -39,7 +39,7 @@ SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 **Published:** July 28th, 2020.<br>
  
 # Work Experience
-**Research Assistant** at The Schlesinger Center in Ariel University.
+**Research Assistant** at The Schlesinger Center in Ariel University.<br>
 August 2019 - October 2020
 - Applied Knowledge of instrumentation and electrical system troubleshooting to maintain system functionality.
 - Conducted lab experiments as part of the research in the THz Free Electron Laser
