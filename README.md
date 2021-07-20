@@ -19,20 +19,17 @@ Data Science Graduate Student at Drexel University
  
 ## Skills
 - **Programming**: 
-<!-- <style>
-table,td, th {
-   border: none!important;
-}
-</style> -->
 
 Skill | Rating 
 :--: | :-- 
-<span style="color:green">Python</span>| 🔵 🔵 🔵 🔵 🔵
-<span style="color:green">MATLAB</span>| 🔵 🔵 🔵 🔵 🔵
-Java|🔵 🔵 🔵 🔵 ⚪
-Git|🔵 🔵 🔵 ⚪ ⚪
-GitHub|🔵 🔵 🔵 ⚪ ⚪
-SQL|🔵 🔵 ⚪ ⚪ ⚪ 
+<span style="color:green">Python</span>| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
+<span style="color:green">MATLAB</span>| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
+Java|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
+Git|🔵 🔵 🔵 ⚪ ⚪ &nbsp; Intermediate
+GitHub|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
+SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
+
+- **Productivity**: LaTeX, Microsoft Word, Excel, PowerPoint.
  
  
 <!-- ## Welcome to GitHub Pages
