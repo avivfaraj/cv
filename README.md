@@ -5,8 +5,8 @@ table,td, th {
 </style>
 
 
-# Aviv Faraj 
-Data Science Graduate Student at Drexel University
+<!-- # Aviv Faraj 
+Data Science Graduate Student at Drexel University -->
 
 ## Education
 - **Master of Science, Data Science**, Drexel University, Philadelphia 
