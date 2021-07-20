@@ -3,7 +3,7 @@ table,td, th {
     border: none!important;
 }
 </style>
-
+[LinkedIn](https://www.linkedin.com/in/aviv-faraj-857278180/) | [Email](avivfaraj4@gmail.com)
 # Education
 - **Master of Science, Data Science**, Drexel University, Philadelphia 
 
