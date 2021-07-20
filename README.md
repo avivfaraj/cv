@@ -33,10 +33,10 @@ SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 - **Productivity**: LaTeX, Microsoft Word, Excel, PowerPoint.
  
 # Publications
-**Title:** ”Automated, Convenient and Compact Auto-correlation Measurement for an Ultra-fast Laser Pulse" Co-authored with Dr. Ariel Nause.
-**DOI:** [DOI](https://doi.org/10.1134/S0020441220040028)
-**View-only version:** [View Only version](https://rdcu.be/b5Vhh)
-**Published:** July 28th, 2020.
+**Title:** ”Automated, Convenient and Compact Auto-correlation Measurement for an Ultra-fast Laser Pulse" Co-authored with Dr. Ariel Nause. <br>
+**DOI:** [DOI](https://doi.org/10.1134/S0020441220040028)<br>
+**View-only version:** [View Only version](https://rdcu.be/b5Vhh)<br>
+**Published:** July 28th, 2020.<br>
  
 # Work Experience
 **Research Assistant** at The Schlesinger Center in Ariel University.
