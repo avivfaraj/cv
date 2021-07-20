@@ -1,6 +1,6 @@
 
 
-# Aviv Faraj
+<h1> Aviv Faraj </h1>
 Data Science Graduate Student at Drexel University
 
 ## Education
