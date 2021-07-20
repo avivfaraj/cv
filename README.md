@@ -1,2 +1,2 @@
-# My Digital CV avaiable at:
-[Aviv Faraj's CV](avivfaraj.github.io/cv)
+# My Digital CV is avaiable at:
+[Aviv Faraj's CV](https://avivfaraj.github.io/cv/)
