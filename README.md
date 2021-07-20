@@ -1,2 +1,2 @@
-# My Digital CV is avaiable at:
-[Aviv Faraj's CV](https://avivfaraj.github.io/cv/)
+# Check out my [Digital Resume](https://avivfaraj.github.io/cv/)
+
