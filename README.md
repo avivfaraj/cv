@@ -19,11 +19,11 @@ Data Science Graduate Student at Drexel University
  
 ## Skills
 - **Programming**: 
-<style>
+<!-- <style>
 table,td, th {
    border: none!important;
 }
-</style>
+</style> -->
 
 Skill | Rating 
 :--: | :-- 
