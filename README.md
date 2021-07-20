@@ -4,11 +4,7 @@ table,td, th {
 }
 </style>
 
-
-<!-- # Aviv Faraj 
-Data Science Graduate Student at Drexel University -->
-
-## Education
+# Education
 - **Master of Science, Data Science**, Drexel University, Philadelphia 
 
 - **Bachelor of Science, Electrical & Electronics Engineering, Magna Cum Laude**, Ariel University, Israel. 
@@ -18,11 +14,10 @@ Data Science Graduate Student at Drexel University -->
   
 - **Bachelor of Science, Physics, Summa Cum Laude**, Ariel University, Israel.
     - Summa Cum Laude, 2019
-    - Dean's List, 2018
-    - Dean's List, 2017
+    - Dean's List, 2018, 2017
     - GPA - 3.8 
- 
-## Skills
+
+# Skills
 - **Programming**: 
 
 Skill | Rating 
@@ -30,12 +25,31 @@ Skill | Rating
 <span style="color:green">Python</span>| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
 <span style="color:green">MATLAB</span>| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
 Java|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
+C++|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
 Git|🔵 🔵 🔵 ⚪ ⚪ &nbsp; Intermediate
 GitHub|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 
 - **Productivity**: LaTeX, Microsoft Word, Excel, PowerPoint.
  
+# Publications
+**Title:** ”Automated, Convenient and Compact Auto-correlation Measurement for an Ultra-fast Laser Pulse" Co-authored with Dr. Ariel Nause.
+**DOI:** [DOI](https://doi.org/10.1134/S0020441220040028)
+**View-only version:** [View Only version](https://rdcu.be/b5Vhh)
+**Published:** July 28th, 2020.
+ 
+# Work Experience
+**Research Assistant** at The Schlesinger Center in Ariel University.
+August 2019 - October 2020
+- Applied Knowledge of instrumentation and electrical system troubleshooting to maintain system functionality.
+- Conducted lab experiments as part of the research in the THz Free Electron Laser
+- Developed programs in LabVIEW to control sensors from Control Room
+- Responsible for laser maintenance
+- Drafted reports and user manuals
+ 
+ # Languages
+ - Hebrew
+ - English
  
 <!-- ## Welcome to GitHub Pages
 
