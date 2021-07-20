@@ -1,3 +1,8 @@
+<style>
+table,td, th {
+    border: none!important;
+}
+</style>
 
 
 # Aviv Faraj 
