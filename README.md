@@ -47,7 +47,7 @@ August 2019 - October 2020
 - Responsible for laser maintenance
 - Drafted reports and user manuals
  
- # Languages
+# Languages
  - Hebrew
  - English
  
