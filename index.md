@@ -51,7 +51,7 @@ August 2019 - October 2020
  
 # Certifications
 ## Verified International Academic Qualifications
-<img src="https://drive.google.com/uc?export=view&id=1XCIlkvi4qatYpIwReCacbqkJqSapLwQm" width="75">  &emsp; Issued by [World Education services](https://www.credly.com/org/wes)
+<img src="https://drive.google.com/uc?export=view&id=1XCIlkvi4qatYpIwReCacbqkJqSapLwQm" width="75">  &emsp; Issued by [World Education services](https://www.wes.org/)
 
 
 # Languages
