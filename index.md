@@ -47,9 +47,16 @@ August 2019 - October 2020
 - Responsible for laser maintenance
 - Drafted reports and user manuals
  
+# Certifications
+## Verified International Academic Qualifications</h2>
+<img src="https://drive.google.com/uc?export=view&id=1XCIlkvi4qatYpIwReCacbqkJqSapLwQm" width="75">  &emsp; Issued by [World Education services](https://www.credly.com/org/wes)
+
+
 # Languages
  - Hebrew
  - English
+
+
  
 <!-- ## Welcome to GitHub Pages
 
