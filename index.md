@@ -22,14 +22,14 @@ table,td, th {
 
 Skill | Rating 
 :--: | :-- 
-<span style="color:green">Python</span>| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
-<span style="color:green">MATLAB</span>| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
+Python| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
+MATLAB| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
 Java|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
 C++|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
 Git|🔵 🔵 🔵 ⚪ ⚪ &nbsp; Intermediate
 GitHub|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
-
+<!-- <span style="color:green">Python</span> -->
 - **Productivity**: LaTeX, Microsoft Word, Excel, PowerPoint.
  
 # Publications
@@ -48,7 +48,7 @@ August 2019 - October 2020
 - Drafted reports and user manuals
  
 # Certifications
-## Verified International Academic Qualifications</h2>
+## Verified International Academic Qualifications
 <img src="https://drive.google.com/uc?export=view&id=1XCIlkvi4qatYpIwReCacbqkJqSapLwQm" width="75">  &emsp; Issued by [World Education services](https://www.credly.com/org/wes)
 
 
