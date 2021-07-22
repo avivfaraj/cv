@@ -20,7 +20,7 @@ table,td, th {
 # Skills
 - **Programming**: 
 
-Skill | Rating 
+Platform | Rating 
 :--: | :-- 
 Python| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
 MATLAB| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
@@ -29,7 +29,9 @@ C++|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
 Git|🔵 🔵 🔵 ⚪ ⚪ &nbsp; Intermediate
 GitHub|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
+
 <!-- <span style="color:green">Python</span> -->
+
 - **Productivity**: LaTeX, Microsoft Word, Excel, PowerPoint.
  
 # Publications
