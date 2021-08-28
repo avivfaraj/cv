@@ -5,14 +5,18 @@ table,td, th {
 </style>
 [LinkedIn](https://www.linkedin.com/in/aviv-faraj-857278180/) | [Email](mailto:avivfaraj4@gmail.com) | [GitHub](https://github.com/avivfaraj)
 # Education
-- **Master of Science, Data Science**, Drexel University, Philadelphia 
+- **Master of Science, Data Science**, Drexel University, Philadelphia. <br>
+  <i>March 2021 - Present </i>
+  - GPA - 4.0
 
-- **Bachelor of Science, Electrical & Electronics Engineering, Magna Cum Laude**, Ariel University, Israel. 
+- **Bachelor of Science, Electrical & Electronics Engineering**, Ariel University, Israel.<br>
+  <i>October 2016 - August 2020 </i>
     - Magna Cum Laude, 2020
     - Major in Radio Frequency (RF) and Signal Processing.
     - GPA - 3.7
   
-- **Bachelor of Science, Physics, Summa Cum Laude**, Ariel University, Israel.
+- **Bachelor of Science, Physics**, Ariel University, Israel. <br>
+  <i>October 2016 - August 2019 </i>
     - Summa Cum Laude, 2019
     - Dean's List, 2018, 2017
     - GPA - 3.8 
@@ -41,13 +45,14 @@ SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 
  
 # Work Experience
-**Research Assistant** at The Schlesinger Center in Ariel University.<br>
+**Electrical Engineering Intern** at The Schlesinger Center in Ariel University.<br>
 August 2019 - October 2020
 - Applied Knowledge of instrumentation and electrical system troubleshooting to maintain system functionality.
 - Conducted lab experiments as part of the research in the THz Free Electron Laser
-- Developed programs in LabVIEW to control sensors from Control Room
-- Responsible for laser maintenance
-- Drafted reports and user manuals
+- Drafted 3 reports and 5 user manuals
+- Improved laster stability from 30% to 90% of the time
+- Developed a program in LabVIEW to measure ultra-fast laser pulse duration and published a paper
+- Developed a program in LabVIEW to control PID from Control Room
  
 # Certifications
 ## Verified International Academic Qualifications
