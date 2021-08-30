@@ -20,7 +20,23 @@ table,td, th {
     - Summa Cum Laude, 2019
     - Dean's List, 2018, 2017
     - GPA - 3.8 
-
+   
+# Work Experience
+**Web Developer** <br>
+Princess Anne Garden Club - Virginia Beach, VA <br>
+June 2021 - Present <br><br>
+Update [The Princess Anne Garden Club Website](https://pagardenclub.org) as well as writing code, creating new webpage layouts and editing content according to club's requirements. <br>
+ 
+ 
+**Electrical Engineering Intern** at The Schlesinger Center in Ariel University.<br>
+August 2019 - October 2020
+- Applied Knowledge of instrumentation and electrical system troubleshooting to maintain system functionality.
+- Conducted lab experiments as part of the research in the THz Free Electron Laser
+- Drafted 3 reports and 5 user manuals
+- Improved laster stability from 30% to 90% of the time
+- Developed a program in LabVIEW to measure ultra-fast laser pulse duration and published a paper
+- Developed a program in LabVIEW to control PID from Control Room
+ 
 # Skills
 - **Programming**: 
 
@@ -43,22 +59,6 @@ SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 **Published:** July 28th, 2020.<br>
 [Article Page](https://doi.org/10.1134/S0020441220040028) | [View-Only Version](https://rdcu.be/b5Vhh)<br>
 
-# Work Experience
-**Web Developer** <br>
-Princess Anne Garden Club - Virginia Beach, VA <br>
-June 2021 - Present <br>
-Update [The Princess Anne Garden Club Website](https://pagardenclub.org) as well as writing code, creating new webpage layouts and editing content according to club's requirements. <br>
- 
- 
-**Electrical Engineering Intern** at The Schlesinger Center in Ariel University.<br>
-August 2019 - October 2020
-- Applied Knowledge of instrumentation and electrical system troubleshooting to maintain system functionality.
-- Conducted lab experiments as part of the research in the THz Free Electron Laser
-- Drafted 3 reports and 5 user manuals
-- Improved laster stability from 30% to 90% of the time
-- Developed a program in LabVIEW to measure ultra-fast laser pulse duration and published a paper
-- Developed a program in LabVIEW to control PID from Control Room
- 
 # Certifications
 ## Verified International Academic Qualifications
 <img src="https://drive.google.com/uc?export=view&id=1XCIlkvi4qatYpIwReCacbqkJqSapLwQm" width="75">  &emsp; Issued by [World Education services](https://www.wes.org/)
