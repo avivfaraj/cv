@@ -28,7 +28,8 @@ June 2021 - Present <br><br>
 Update [The Princess Anne Garden Club Website](https://pagardenclub.org) as well as writing code, creating new webpage layouts and editing content according to club's requirements. <br>
  
  
-**Electrical Engineering Intern** at The Schlesinger Center in Ariel University.<br>
+**Electrical Engineering Intern** <br>
+The Schlesinger Center in Ariel University, Israel.<br>
 August 2019 - October 2020
 - Applied Knowledge of instrumentation and electrical system troubleshooting to maintain system functionality.
 - Conducted lab experiments as part of the research in the THz Free Electron Laser
