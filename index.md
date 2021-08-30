@@ -43,8 +43,13 @@ SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 **Published:** July 28th, 2020.<br>
 [Article Page](https://doi.org/10.1134/S0020441220040028) | [View-Only Version](https://rdcu.be/b5Vhh)<br>
 
- 
 # Work Experience
+**Web Developer** <br>
+Princess Anne Garden Club - Virginia Beach, VA <br>
+June 2021 - Present <br>
+Update [The Princess Anne Garden Club Website](https://pagardenclub.org) as well as writing code, creating new webpage layouts and editing content according to club's requirements. <br>
+ 
+ 
 **Electrical Engineering Intern** at The Schlesinger Center in Ariel University.<br>
 August 2019 - October 2020
 - Applied Knowledge of instrumentation and electrical system troubleshooting to maintain system functionality.
