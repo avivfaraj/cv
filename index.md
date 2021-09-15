@@ -48,7 +48,7 @@ MATLAB| 🔵 🔵 🔵 🔵 🔵 &nbsp; Excellent
 Java|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
 Git|🔵 🔵 🔵 ⚪ ⚪ &nbsp; Intermediate
 GitHub|🔵 🔵 🔵 ⚪ ⚪ &nbsp; Intermediate
-C++|🔵 🔵 🔵 🔵 ⚪ &nbsp; Intermediate
+C++|🔵 🔵 🔵 ⚪ ⚪ &nbsp; Intermediate
 SQL|🔵 🔵 ⚪ ⚪ ⚪ &nbsp; Beginner
 
 <!-- <span style="color:green">Python</span> -->
